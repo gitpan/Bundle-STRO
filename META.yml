@@ -1,0 +1,13 @@
+--- #YAML:1.0
+name:                Bundle-STRO
+version:             1.01
+abstract:            Bundle for installing modules maintained by STRO
+license:             perl
+author:              
+    - Serguei Trouchelle <stro@railways.dp.ua>
+generated_by:        ExtUtils::MakeMaker version 6.44
+distribution_type:   module
+requires:     
+meta-spec:
+    url:     http://module-build.sourceforge.net/META-spec-v1.3.html
+    version: 1.3
